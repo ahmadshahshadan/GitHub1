@@ -5,6 +5,12 @@ public class DayOfWeek2 {
 	public static void main(String[] args) {
 		
 		months();
+		
+//		-------
+		int x = 2;
+		if ( x == 2) {
+			System.out.println("Correct");
+		}
 	}
 	public static void months() {
 		 
@@ -27,4 +33,5 @@ public class DayOfWeek2 {
 		System.out.println("Good Job ");
 		System.out.println("998877777");
 	}
+
 }
