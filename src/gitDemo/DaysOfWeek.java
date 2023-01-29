@@ -22,6 +22,8 @@ public class DaysOfWeek {
 		default:
 			System.out.println("invalid number");
 		}
+		
+		System.out.println("Good Job ");
 	}
 }
 
